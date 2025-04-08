@@ -1,6 +1,6 @@
-# myapp
+# Fashion APP
 
-A new Flutter project.
+A flutter framework based Fashion ecommerce application called Voguer theat aims to show simple UI and Frontend structures, and not yet completed.
 
 ## Getting Started
 
